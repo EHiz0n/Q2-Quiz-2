@@ -1,0 +1,11 @@
+body {
+    background-color: #735A21;
+    background-image: url(https://t4.ftcdn.net/jpg/06/57/40/95/360_F_657409501_eavivBCsHws75AAJJKKVF2ijHCrUrTyO.jpg);
+    color: #FFFFFF;
+}
+
+.container {
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 15px;
+}
